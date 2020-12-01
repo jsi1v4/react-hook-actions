@@ -2,7 +2,8 @@
   "name": "react-hook-actions",
   "version": "1.0.0",
   "description": "Tool for react with axios projects.",
-  "main": "main.ts",
+  "homepage": "/react-hook-actions/",
+  "main": "src/index.tsx",
   "repository": "https://github.com/jsi1v4/react-hook-actions.git",
   "author": "jsi1v4",
   "license": "GPL-3.0",
@@ -10,7 +11,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "postbuild": "mv build dist",
+    "postbuild": "rm -r dist && mv build dist",
     "test": "react-scripts test",
     "publish": "git subtree push --prefix dist origin gh-pages"
   },
