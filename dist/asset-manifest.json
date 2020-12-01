@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-hook-actions/static/css/main.5e378e18.chunk.css",
+    "main.js": "/react-hook-actions/static/js/main.475c37dd.chunk.js",
+    "main.js.map": "/react-hook-actions/static/js/main.475c37dd.chunk.js.map",
+    "runtime-main.js": "/react-hook-actions/static/js/runtime-main.a00ab3c2.js",
+    "runtime-main.js.map": "/react-hook-actions/static/js/runtime-main.a00ab3c2.js.map",
+    "static/js/2.1f965e10.chunk.js": "/react-hook-actions/static/js/2.1f965e10.chunk.js",
+    "static/js/2.1f965e10.chunk.js.map": "/react-hook-actions/static/js/2.1f965e10.chunk.js.map",
+    "static/js/3.bae37082.chunk.js": "/react-hook-actions/static/js/3.bae37082.chunk.js",
+    "static/js/3.bae37082.chunk.js.map": "/react-hook-actions/static/js/3.bae37082.chunk.js.map",
+    "index.html": "/react-hook-actions/index.html",
+    "static/css/main.5e378e18.chunk.css.map": "/react-hook-actions/static/css/main.5e378e18.chunk.css.map",
+    "static/js/2.1f965e10.chunk.js.LICENSE.txt": "/react-hook-actions/static/js/2.1f965e10.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a00ab3c2.js",
+    "static/js/2.1f965e10.chunk.js",
+    "static/css/main.5e378e18.chunk.css",
+    "static/js/main.475c37dd.chunk.js"
+  ]
+}
