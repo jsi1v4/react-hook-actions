@@ -10,7 +10,9 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test"
+    "postbuild": "mv build dist",
+    "test": "react-scripts test",
+    "publish": "git subtree push --prefix dist origin gh-pages"
   },
   "dependencies": {
     "axios": "^0.21.0",
