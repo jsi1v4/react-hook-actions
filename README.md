@@ -1,9 +1,11 @@
 # React Hook Actions
+
 Tool for react with axios projects, [take a look!](https://www.jsi1v4.com/react-hook-actions)
 
 ## How to use
 
 ### Service
+
 ```
   const heroes: Hero[] = [
     { name: 'Peter', level: 25 },
@@ -17,6 +19,7 @@ Tool for react with axios projects, [take a look!](https://www.jsi1v4.com/react-
 ```
 
 ### Component
+
 ```
   ...
     const request = useAction<Hero[]>();
@@ -42,7 +45,3 @@ Tool for react with axios projects, [take a look!](https://www.jsi1v4.com/react-
       }
     ...
 ```
-
-## About
-- **Author**: Jose Silva
-- **Dep**: Axios(>=0.21.x)
